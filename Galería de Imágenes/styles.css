@@ -6,6 +6,7 @@ h1 {
     text-align: center;
     margin: 20px auto;
     width: fit-content;
+    background-color: rgb(210, 157, 157);
 }
 
 .image {
